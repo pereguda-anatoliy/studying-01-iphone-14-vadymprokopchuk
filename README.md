@@ -1,8 +1,17 @@
 # studying-01-iphone-14-vadymprokopchuk  
 Free Tutorial Coding Iphone 14 Pro Website from @vadymprokopchuk  
 
+## Ресурсы  
+
 [Youtube Video Link](https://www.youtube.com/watch?v=2dVPFVX3ZZ0)  
-[Youtube Channel Link](https://www.youtube.com/@vadymprokopchuk)  
+[Author's YouTube Сhannel](https://www.youtube.com/@vadymprokopchuk)  
+[Author's Telegram Сhannel](https://t.me/from0to1com)  
+[Макет](https://drive.google.com/file/d/1N3QB3YGJbuVkMw7l3Qg5NMJz9F53CA7s/view)  
+[VSC](https://code.visualstudio.com/)  
+[Figma](https://www.figma.com/downloads/)  
+[Doka Directory](https://doka.guide/)  
+[Normalize](https://necolas.github.io/normalize.css/)  
+[Fonts](https://fonts.google.com/)  
 
 ## Notes  
 
@@ -26,7 +35,16 @@ header.header + Tab --> `<header class="header"></header>`
 
 ### CSS and Emmet  
 w1200 + Tab --> `width: 1200px;`  
-top left right bottom  
+df + Tab --> `display: flex;`  
+jcsb + Tab --> `justify-content: space-between;`  
+aic + Tab --> `align-items: center;`  
+
+
+Directions of margins and padding  
+Top Right Bottom Left: 25px 25px 25px 25px  
+Top Right&Left Bottom: 25px 25px 25px  
+Top&Botton Right&Left: 25px 25px
+All: 25px  
 
 
 ### Questions  
