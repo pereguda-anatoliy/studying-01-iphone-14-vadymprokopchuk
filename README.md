@@ -38,6 +38,9 @@ w1200 + Tab --> `width: 1200px;`
 df + Tab --> `display: flex;`  
 jcsb + Tab --> `justify-content: space-between;`  
 aic + Tab --> `align-items: center;`  
+p70-0-40 + Tab --> `padding: 70px 0 40px;`  
+fz64 + Tab --> `font-size: 64px;`  
+lh29px + Tab --> `line-height: 29px;` в сокращении указывать px!  
 
 
 Directions of margins and padding  
