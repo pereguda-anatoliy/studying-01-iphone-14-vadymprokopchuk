@@ -54,10 +54,35 @@ body {
     line-height: 29px;
 }
 
+.menu-link:hover {
+    color: #ffffff;
+    transition: color 0.3s;
+    /* Добавил: Изменение цвета при наведении */
+}
+
+.logo-img {
+    transition: filter 0.3s;
+    /* Добавил: Плавное изменение для логотипа */
+}
+
+.logo:hover .logo-img {
+    filter: brightness(0) invert(1);
+    /* Добавил: Фильтр
+    brightness(0) - делает изображение черным,
+    invert(1) - инвертирует цвета (черный становится белым) */
+}
+
 .phone {
     flex-grow: 1;
     flex-basis: 0;
     text-align: right;
+}
+
+.phone:hover {
+    text-decoration: underline;
+    color: #ffffff;
+    transition: color 0.3s;
+    /* Добавил: Подчеркивание телефона */
 }
 
 .headline {

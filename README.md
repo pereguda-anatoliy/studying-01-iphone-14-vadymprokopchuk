@@ -53,6 +53,8 @@ Top&Botton Right&Left: 25px 25px
 All: 25px  
 
 
+
+
 ### Questions  
 Пройдет ли валидацию ссылка без href?  
 `<a class="logo"></a>`  
