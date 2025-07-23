@@ -44,7 +44,31 @@ aic + Tab --> `align-items: center;`
 p70-0-40 + Tab --> `padding: 70px 0 40px;`  
 fz64 + Tab --> `font-size: 64px;`  
 lh29px + Tab --> `line-height: 29px;` в сокращении указывать px!  
-
+ul.color-list>li.color-item*4>img[src=images/color-$.jpg]+h3{Silver}+p{Серебристый} -->  
+```  
+<ul class="color-list">
+                    <li class="color-item">
+                        <img src="images/color-1.jpg" alt="">
+                        <h3>Silver</h3>
+                        <p>Серебристый</p>
+                    </li>
+                    <li class="color-item">
+                        <img src="images/color-2.jpg" alt="">
+                        <h3>Silver</h3>
+                        <p>Серебристый</p>
+                    </li>
+                    <li class="color-item">
+                        <img src="images/color-3.jpg" alt="">
+                        <h3>Silver</h3>
+                        <p>Серебристый</p>
+                    </li>
+                    <li class="color-item">
+                        <img src="images/color-4.jpg" alt="">
+                        <h3>Silver</h3>
+                        <p>Серебристый</p>
+                    </li>
+                </ul>
+```  
 
 Directions of margins and padding  
 Top Right Bottom Left: 25px 25px 25px 25px  
