@@ -67,6 +67,27 @@ All: 25px
 Пункты автоматически выстраиваются в ряд
 4. схема:  
 [ Меню (растягивается) ] [ Лого (фикс) ] [ Телефон (растягивается) ]  
+```  
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+```  
+```  
+.menu {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0;
+}
+```  
+```  
+.phone {
+    flex-grow: 1;
+    flex-basis: 0;
+    text-align: right;
+}
+```  
 
 ### Questions  
 Пройдет ли валидацию ссылка без href?  
